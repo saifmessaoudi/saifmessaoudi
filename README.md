@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saifmessaoudi&label=Profile%20views&color=0e75b6&style=flat" alt="saifmessaoudi" /> </p>
 
-- 🌱 I’m currently learning **Kotlin & IOS**
+- 🌱 I’m currently learning **Kotlin & Swift**
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Mobile Development**
 
 - 📫 How to reach me **saif.messaoudi@esprit.tn**
 
