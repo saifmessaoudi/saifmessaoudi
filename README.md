@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saifmessaoudi&label=Profile%20views&color=0e75b6&style=flat" alt="saifmessaoudi" /> </p>
 
-- 🌱 I’m currently learning **Kotlin & Swift**
+- 🌱 I’m currently learning **Kotlin , Swift && Flutter**
 
 - 💬 Ask me about **Mobile Development**
 
