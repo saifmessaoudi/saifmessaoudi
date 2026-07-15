@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,50:F05138,100:02569B&height=170&section=header&text=Saif%20Messaoudi&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mobile%20and%20Flutter%20Engineer%20%40%20Maarpay&descAlignY=58&descSize=17" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:102A71,50:F05138,100:02569B&height=170&section=header&text=Saif%20Messaoudi&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mobile%20and%20Flutter%20Engineer%20%40%20Maarpay&descAlignY=58&descSize=17" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1400&color=7F52FF&center=true&vCenter=true&width=440&lines=Mobile+and+Flutter+Engineering;Clean+Architecture+%E2%80%A2+Testing+%E2%80%A2+Security;Fintech+in+production+%40+Maarpay" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1400&color=102A71&center=true&vCenter=true&width=440&lines=Mobile+and+Flutter+Engineering;Clean+Architecture+%E2%80%A2+Testing+%E2%80%A2+Security;Fintech+in+production+%40+Maarpay" alt="Typing intro" />
 
-<a href="https://github.com/saifmessaoudi"><img src="https://komarev.com/ghpvc/?username=saifmessaoudi&label=Views&color=7F52FF&style=flat-square" alt="Profile views" /></a>
+<a href="https://github.com/saifmessaoudi"><img src="https://komarev.com/ghpvc/?username=saifmessaoudi&label=Views&color=102A71&style=flat-square" alt="Profile views" /></a>
 
 </div>
 
@@ -22,7 +22,7 @@ flowchart LR
     Data -->|implements| Domain
     Domain -.->|zero imports out| Pure(["pure business logic"])
 
-    style Domain fill:#7F52FF,stroke:#7F52FF,color:#fff
+    style Domain fill:#102A71,stroke:#102A71,color:#fff
     style Presentation fill:#02569B,stroke:#02569B,color:#fff
     style Data fill:#F05138,stroke:#F05138,color:#fff
     style Pure fill:transparent,stroke:#999,color:#999,stroke-dasharray:3 3
@@ -59,14 +59,14 @@ flowchart LR
 <div align="center">
 
 <a href="https://github.com/saifmessaoudi">
-  <img src="https://ghchart.rshah.org/7F52FF/saifmessaoudi" alt="Contribution graph" width="100%" />
+  <img src="https://ghchart.rshah.org/102A71/saifmessaoudi" alt="Contribution graph" width="100%" />
 </a>
 
 <br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=saifmessaoudi&hide_border=true&background=00000000&ring=A78BFA&fire=FF8A65&currStreakLabel=A78BFA&sideLabels=E7E9F5&currStreakNum=E7E9F5&sideNums=E7E9F5&dates=8b8ba0" />
-  <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=saifmessaoudi&hide_border=true&background=00000000&ring=7F52FF&fire=F05138&currStreakLabel=7F52FF&sideLabels=1A1A2E&currStreakNum=1A1A2E&sideNums=1A1A2E&dates=555" />
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=saifmessaoudi&hide_border=true&background=00000000&ring=102A71&fire=F05138&currStreakLabel=102A71&sideLabels=1A1A2E&currStreakNum=1A1A2E&sideNums=1A1A2E&dates=555" />
 </picture>
 
 </div>
@@ -82,6 +82,6 @@ flowchart LR
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,50:F05138,100:7F52FF&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,50:F05138,100:102A71&height=100&section=footer" width="100%" />
 
 </div>
