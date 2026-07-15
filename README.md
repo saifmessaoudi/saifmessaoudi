@@ -40,25 +40,13 @@ CI/CD (Jenkins, Fastlane) · Firebase (Crashlytics, Remote Config) · Store rele
 
 </div>
 
-## 📊 Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=saifmessaoudi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" width="100%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifmessaoudi&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages" width="60%" />
-
-<img src="https://streak-stats.demolab.com?user=saifmessaoudi&theme=tokyonight&hide_border=true" alt="Streak" width="100%" />
-
-</div>
 
 ## 📫 Connect
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saif-messaoudi)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/saifmessaoudi)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saif.messaoudi@esprit.tn)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@saifmessaoudi.me)
 
 </div>
 
