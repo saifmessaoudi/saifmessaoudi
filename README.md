@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F4B,50:102A71,100:1E3A8A&height=170&section=header&text=Saif%20Messaoudi&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Staff%20Mobile%20Engineer%20%40%20Maarpay&descAlignY=58&descSize=17" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F4B,50:102A71,100:1E3A8A&height=170&section=header&text=Saif%20Messaoudi&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Staff%20Mobile%20Engineer%20%40%20Maaarpay&descAlignY=58&descSize=17" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1400&color=102A71&center=true&vCenter=true&width=520&lines=Mobile+Engineering+at+Scale;Architecture+%E2%80%A2+Reliability+%E2%80%A2+Security;Fintech+in+production+%E2%80%94+real+money%2C+real+users" alt="Typing intro" />
 
@@ -10,7 +10,7 @@
 
 ## 💳 Currently
 
-Staff Mobile Engineer at **Maarpay**, building a production fintech wallet for the GCC and MENA markets. Money movement at scale — where a dropped edge case isn't a bug ticket, it's someone's balance.
+Staff Mobile Engineer at **Maaarpay**, building a production fintech wallet for the GCC and MENA markets. Money movement at scale — where a dropped edge case isn't a bug ticket, it's someone's balance.
 
 My job sits at the intersection of product velocity and engineering rigor: shaping the mobile architecture, raising the quality bar across the team, and making sure the thing we ship is the thing we can defend — to auditors, to regulators, and to users.
 
