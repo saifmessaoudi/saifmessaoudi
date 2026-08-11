@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:102A71,50:F05138,100:02569B&height=170&section=header&text=Saif%20Messaoudi&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mobile%20and%20Flutter%20Engineer%20%40%20Maarpay&descAlignY=58&descSize=17" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F4B,50:102A71,100:1E3A8A&height=170&section=header&text=Saif%20Messaoudi&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Staff%20Mobile%20Engineer%20%40%20Maarpay&descAlignY=58&descSize=17" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1400&color=102A71&center=true&vCenter=true&width=440&lines=Mobile+and+Flutter+Engineering;Clean+Architecture+%E2%80%A2+Testing+%E2%80%A2+Security;Fintech+in+production+%40+Maarpay" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1400&color=102A71&center=true&vCenter=true&width=520&lines=Mobile+Engineering+at+Scale;Architecture+%E2%80%A2+Reliability+%E2%80%A2+Security;Fintech+in+production+%E2%80%94+real+money%2C+real+users" alt="Typing intro" />
 
 <a href="https://github.com/saifmessaoudi"><img src="https://komarev.com/ghpvc/?username=saifmessaoudi&label=Views&color=102A71&style=flat-square" alt="Profile views" /></a>
 
@@ -10,49 +10,33 @@
 
 ## 💳 Currently
 
-Mobile Software Engineer based in Tunis, building a production fintech wallet at **Maarpay** — GCC and MENA markets, real money, real users, no room for "close enough."
+Staff Mobile Engineer at **Maarpay**, building a production fintech wallet for the GCC and MENA markets. Money movement at scale — where a dropped edge case isn't a bug ticket, it's someone's balance.
 
-I work across native Android, native iOS, and Flutter, and pick whichever one the problem actually needs — not whichever one is trendy.
+My job sits at the intersection of product velocity and engineering rigor: shaping the mobile architecture, raising the quality bar across the team, and making sure the thing we ship is the thing we can defend — to auditors, to regulators, and to users.
 
-## 🏗️ How I Build
+## 🧭 Engineering Principles
 
-```mermaid
-flowchart LR
-    Presentation -->|reads| Domain
-    Data -->|implements| Domain
-    Domain -.->|zero imports out| Pure(["pure business logic"])
+These are the standards I hold, independent of any language or framework:
 
-    style Domain fill:#102A71,stroke:#102A71,color:#fff
-    style Presentation fill:#02569B,stroke:#02569B,color:#fff
-    style Data fill:#F05138,stroke:#F05138,color:#fff
-    style Pure fill:transparent,stroke:#999,color:#999,stroke-dasharray:3 3
-```
-
-*Domain imports nothing — no framework, no packages. Everything else depends inward.*
-
-- 🧪 Tests aren't optional. If it isn't verified, it isn't done.
-- 🔐 Security is default-on — no secrets in code, no PII in logs, ever.
-- ✂️ The smallest diff that fixes the root cause wins. No hero PRs, no drive-by rewrites.
-- 🧭 Match the codebase you're in before introducing a new pattern to it.
-- 📱 Verify on a real device, not just green CI.
+- 🏛️ **Architecture is a liability budget.** Boundaries exist to contain change. Business logic stays pure, dependencies point inward, and no layer knows more than it needs to.
+- 🧪 **Unverified means unfinished.** Tests, static analysis, and review gates aren't process theater — they're how a team moves fast without gambling.
+- 🔐 **Security is a default, not a feature.** No secrets in source, no PII in logs, hardened builds, defense in depth on-device. Trust is earned per release and lost once.
+- ✂️ **The smallest correct change wins.** Root cause over symptom, surgical diffs over hero rewrites. A codebase is a shared asset, not a personal canvas.
+- 📐 **Consistency beats cleverness.** Match the patterns of the codebase you're in; earn the right to introduce new ones through consensus, not surprise.
+- 📱 **Reality is the test environment.** Green CI is necessary, never sufficient. Real devices, real networks, real degraded conditions.
+- 📈 **Observability closes the loop.** Crash-free rates, performance budgets, and staged rollouts turn releases from leaps of faith into controlled experiments.
 
 ## 🧩 Where I Operate
 
 | Discipline | What it covers |
 |---|---|
-| 🦋 **Flutter Engineering** | Dart · scalable state management · platform channels · isolates and performance profiling |
-| 🤖 **Android (native)** | Kotlin · Jetpack Compose · Coroutines and Flow · dependency injection |
-| 🍎 **iOS (native)** | Swift · SwiftUI · Combine · Keychain and biometrics |
-| 🏛️ **Architecture** | Clean Architecture · modularization · domain-driven boundaries |
-| ✅ **Quality** | Unit and widget testing · static analysis gates · code review discipline |
-| 🛡️ **Mobile Security** | Secure local storage · certificate pinning · root/jailbreak detection · hardened release builds |
-| 🚀 **Release Engineering** | CI/CD pipelines · staged rollouts · crash monitoring · store compliance |
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,androidstudio,xcode,firebase,git,figma&perline=5" alt="Tech icons" />
-
-</div>
+| 🏛️ **Architecture & System Design** | Modular boundaries · domain-driven design · scalable state and data flow · long-horizon maintainability |
+| ⚙️ **Platform Engineering** | Deep native platform fluency · concurrency and lifecycle correctness · offline-first and resilient sync |
+| ⚡ **Performance** | Startup and rendering budgets · memory and battery discipline · profiling as a habit, not a rescue mission |
+| ✅ **Quality Engineering** | Layered test strategy · static analysis gates · review culture that teaches, not gatekeeps |
+| 🛡️ **Mobile Security** | Secure storage · transport hardening · tamper and integrity detection · release build hardening |
+| 🚀 **Release Engineering** | CI/CD pipelines · staged rollouts and kill switches · crash monitoring · store and regulatory compliance |
+| 🤝 **Technical Leadership** | Design reviews · mentoring · engineering standards that outlive any single project |
 
 ## 📊 Activity
 
@@ -66,7 +50,7 @@ flowchart LR
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=saifmessaoudi&hide_border=true&background=00000000&ring=A78BFA&fire=FF8A65&currStreakLabel=A78BFA&sideLabels=E7E9F5&currStreakNum=E7E9F5&sideNums=E7E9F5&dates=8b8ba0" />
-  <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=saifmessaoudi&hide_border=true&background=00000000&ring=102A71&fire=F05138&currStreakLabel=102A71&sideLabels=1A1A2E&currStreakNum=1A1A2E&sideNums=1A1A2E&dates=555" />
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=saifmessaoudi&hide_border=true&background=00000000&ring=102A71&fire=1E3A8A&currStreakLabel=102A71&sideLabels=1A1A2E&currStreakNum=1A1A2E&sideNums=1A1A2E&dates=555" />
 </picture>
 
 </div>
@@ -82,6 +66,6 @@ flowchart LR
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,50:F05138,100:102A71&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:102A71,100:0B1F4B&height=100&section=footer" width="100%" />
 
 </div>
