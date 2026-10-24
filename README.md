@@ -12,17 +12,17 @@
 
 ### About
 
-I lead mobile at **[MaaarPay](https://maaarpay.com/download)**, a financial super-app. I own the iOS and Android side end to end and work with the team to ship products that are fast, secure, and reliable.
+I lead mobile engineering at **[MaaarPay](https://maaarpay.com/download)**, a digital finance platform. I'm responsible for our iOS and Android apps end to end, and I work alongside the team to deliver experiences that are fast, secure, and reliable.
 
 ### Focus
 
 | | |
 |---|---|
-| **Architecture** | Modular, scalable mobile platforms built to last |
-| **Security** | Protecting users, data, and every transaction |
-| **Quality** | Automated gates and confidence in every release |
+| **Architecture** | Modular, scalable foundations built for long-term growth |
+| **Security** | Protecting users, their data, and every transaction |
+| **Quality** | Automated checks that give every release confidence |
 | **Reliability** | Production monitoring and continuous improvement |
-| **Leadership** | Design reviews, mentoring, and engineering standards |
+| **Leadership** | Design reviews, mentoring, and shared engineering standards |
 
 ### How I work
 
@@ -33,7 +33,13 @@ I lead mobile at **[MaaarPay](https://maaarpay.com/download)**, a financial supe
 
 ### Platforms
 
-<img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" /> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+<div align="center">
+
+<a href="https://apps.apple.com/us/app/maaarpay/id6758517990"><img src="https://img.shields.io/badge/Download_on_the-App_Store-000000?style=for-the-badge&logo=apple&logoColor=white&labelColor=000000" alt="Download on the App Store" height="40" /></a>
+&nbsp;
+<a href="https://play.google.com/store/apps/details?id=com.maaarpay.app"><img src="https://img.shields.io/badge/Get_it_on-Google_Play-000000?style=for-the-badge&logo=googleplay&logoColor=white&labelColor=000000" alt="Get it on Google Play" height="40" /></a>
+
+</div>
 
 ### Activity
 
